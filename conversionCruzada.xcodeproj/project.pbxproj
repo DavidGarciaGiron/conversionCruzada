@@ -13,6 +13,7 @@
 		356779EB22861C9900A6AC5A /* conversionCruzada.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 356779E922861C9900A6AC5A /* conversionCruzada.xcdatamodeld */; };
 		356779ED22861C9C00A6AC5A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 356779EC22861C9C00A6AC5A /* Assets.xcassets */; };
 		356779F022861C9C00A6AC5A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 356779EE22861C9C00A6AC5A /* LaunchScreen.storyboard */; };
+		356779FA2286300400A6AC5A /* Distancia.swift in Sources */ = {isa = PBXBuildFile; fileRef = 356779F92286300400A6AC5A /* Distancia.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		356779EC22861C9C00A6AC5A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		356779EF22861C9C00A6AC5A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		356779F122861C9C00A6AC5A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		356779F92286300400A6AC5A /* Distancia.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Distancia.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				356779EE22861C9C00A6AC5A /* LaunchScreen.storyboard */,
 				356779F122861C9C00A6AC5A /* Info.plist */,
 				356779E922861C9900A6AC5A /* conversionCruzada.xcdatamodeld */,
+				356779F92286300400A6AC5A /* Distancia.swift */,
 			);
 			path = conversionCruzada;
 			sourceTree = "<group>";
@@ -140,6 +143,7 @@
 			files = (
 				356779E522861C9900A6AC5A /* ViewController.swift in Sources */,
 				356779E322861C9900A6AC5A /* AppDelegate.swift in Sources */,
+				356779FA2286300400A6AC5A /* Distancia.swift in Sources */,
 				356779EB22861C9900A6AC5A /* conversionCruzada.xcdatamodeld in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
